@@ -158,9 +158,7 @@
             </row>
             <row>
               <entry role="feature-detail">public</entry>
-              <entry role="feature-detail">
-                <para role="datatype">void</para>
-              </entry>
+              <entry role="feature-detail"/>
               <entry role="feature-detail">buildShip</entry>
             </row>
             <row>
